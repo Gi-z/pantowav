@@ -1,0 +1,24 @@
+{
+  "name": "pantowav",
+  "version": "1.0.0",
+  "description": "Tool for rendering nostalgia charts to 32-bit PCM wav.",
+  "main": "pantowav.js",
+  "dependencies": {
+    "node-libsamplerate": "^1.0.0",
+    "wav": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gi-z/pantowav.git"
+  },
+  "author": "Giz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gi-z/pantowav/issues"
+  },
+  "homepage": "https://github.com/Gi-z/pantowav#readme"
+}

@@ -1,0 +1,10 @@
+node_modules
+output
+temp
+oldstuff
+
+package-lock.json
+
+*.exe
+*.py
+*.png
